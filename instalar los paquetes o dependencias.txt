@@ -1,0 +1,6 @@
+instruuciones:
+
+instalar npm install react-icons --save
+
+
+instalar uuid : npm install uuid    /*sirve para asignar id unicos a la respectivas tareas*/
